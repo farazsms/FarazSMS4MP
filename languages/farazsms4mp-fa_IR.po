@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FarazSMS for MihanPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-09 16:52+0000\n"
+"PO-Revision-Date: 2020-06-09 16:52+0000\n"
+"Last-Translator: saeb molaee\n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: includes/class-core.php:20
+msgid "FARAZSMS4MP SMS"
+msgstr "فراز اس‌ام‌اس"
+
+#: includes/class-core.php:52
+#, php-format
+msgid ""
+"<h2> Special Offer </h2>\n"
+"                 By registering in the sales cooperation system and "
+"introducing the Faraz SMS SMS system to your friends, 30% cooperation fee "
+"in\n"
+"                 Get sales.\n"
+"                 <a href=\"https://farazsms.com/affiliate\" "
+"target=\"_blank\" rel=\"noopener\"> More info and start earning money\n"
+"                     Internet </a>"
+msgstr ""
+"  <h2>پیشنهاد ویژه</h2>\n"
+"                با ثبت نام در سیستم همکاری در فروش و معرفی سامانه پیامک فراز "
+"اس ام اس به دوستانتان 30% پورسانت همکاری در\n"
+"                فروش دریافت کنید.\n"
+"\n"
+"                <a href=\"https://farazsms.com/affiliate\" target=\"_blank\" "
+"rel=\"noopener\">اطلاعات بیشتر و شروع کسب درامد\n"
+"                    اینترنتی </a>\n"
+
+#: includes/class-core.php:170
+msgid "It seems user name and password are not working yet are you saved them?"
+msgstr ""
+"به نظر می‌آید ما نمی‌توانیم به فراز اس ام اس وصل شویم. آیا نام کاربری و رمز "
+"عبور خود را به درستی وارد کرده‌اید؟"
+
+#: includes/class-core.php:174
+#, php-format
+msgid "Your credit is: %s Toman"
+msgstr "میزان اعتبار شما: %s تومان"
+
+#: includes/class-core.php:180
+msgid "َUser Name"
+msgstr "نام کاربر"
+
+#: includes/class-core.php:184
+msgid "Password"
+msgstr "رمز عبور"
+
+#: includes/class-core.php:188
+msgid "Originator"
+msgstr "شماره سامانه"
+
+#: includes/class-core.php:197
+msgid "Phonebook"
+msgstr "دفتر تلفن"
+
+#. Name of the plugin
+msgid "FarazSMS for MihanPanel"
+msgstr "افزونه فرازاس‌ام‌س به میهن پنل"
+
+#. Description of the plugin
+msgid "Add FarazSMS Configs for MihanPanel Plugin"
+msgstr "افزودن تنظیمات فراز اس ام اس به افزونه میهن پنل"
+
+#. URI of the plugin
+msgid "https://farazsms.com"
+msgstr "https://farazsms.com"
+
+#. Author of the plugin
+msgid ""
+"Seyyed Mahmood Ghaffari and <a href=\"https://twitter.com/sae13\">Saeb "
+"Molaee</a>"
+msgstr "سیدمحمودغفاری و <a href=\"https://twitter.com/sae13\">صائب ملایی</a>"
+
+#. Author URI of the plugin
+msgid "https://farazsms.com/api"
+msgstr "https://farazsms.com/api"

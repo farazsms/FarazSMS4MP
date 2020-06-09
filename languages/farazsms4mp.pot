@@ -1,0 +1,80 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FarazSMS for MihanPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-09 16:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: includes/class-core.php:20
+msgid "FARAZSMS4MP SMS"
+msgstr ""
+
+#: includes/class-core.php:52
+#, php-format
+msgid ""
+"<h2> Special Offer </h2>\n"
+"                 By registering in the sales cooperation system and "
+"introducing the Faraz SMS SMS system to your friends, 30% cooperation fee "
+"in\n"
+"                 Get sales.\n"
+"                 <a href=\"https://farazsms.com/affiliate\" "
+"target=\"_blank\" rel=\"noopener\"> More info and start earning money\n"
+"                     Internet </a>"
+msgstr ""
+
+#: includes/class-core.php:170
+msgid "It seems user name and password are not working yet are you saved them?"
+msgstr ""
+
+#: includes/class-core.php:174
+#, php-format
+msgid "Your credit is: %s Toman"
+msgstr ""
+
+#: includes/class-core.php:180
+msgid "َUser Name"
+msgstr ""
+
+#: includes/class-core.php:184
+msgid "Password"
+msgstr ""
+
+#: includes/class-core.php:188
+msgid "Originator"
+msgstr ""
+
+#: includes/class-core.php:197
+msgid "Phonebook"
+msgstr ""
+
+#. Name of the plugin
+msgid "FarazSMS for MihanPanel"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add FarazSMS Configs for MihanPanel Plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://farazsms.com"
+msgstr ""
+
+#. Author of the plugin
+msgid ""
+"Seyyed Mahmood Ghaffari and <a href=\"https://twitter.com/sae13\">Saeb "
+"Molaee</a>"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://farazsms.com/api"
+msgstr ""
