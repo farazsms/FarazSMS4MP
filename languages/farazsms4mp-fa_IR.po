@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FarazSMS for MihanPanel\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-09 16:52+0000\n"
-"PO-Revision-Date: 2020-06-09 16:52+0000\n"
+"POT-Creation-Date: 2020-06-10 14:40+0000\n"
+"PO-Revision-Date: 2020-06-10 14:41+0000\n"
 "Last-Translator: saeb molaee\n"
 "Language-Team: فارسی\n"
 "Language: fa_IR\n"
@@ -39,30 +39,38 @@ msgstr ""
 "rel=\"noopener\">اطلاعات بیشتر و شروع کسب درامد\n"
 "                    اینترنتی </a>\n"
 
-#: includes/class-core.php:170
+#: includes/class-core.php:196
 msgid "It seems user name and password are not working yet are you saved them?"
 msgstr ""
 "به نظر می‌آید ما نمی‌توانیم به فراز اس ام اس وصل شویم. آیا نام کاربری و رمز "
 "عبور خود را به درستی وارد کرده‌اید؟"
 
-#: includes/class-core.php:174
+#: includes/class-core.php:200
 #, php-format
 msgid "Your credit is: %s Toman"
 msgstr "میزان اعتبار شما: %s تومان"
 
-#: includes/class-core.php:180
+#: includes/class-core.php:206
 msgid "َUser Name"
 msgstr "نام کاربر"
 
-#: includes/class-core.php:184
+#: includes/class-core.php:210
 msgid "Password"
 msgstr "رمز عبور"
 
-#: includes/class-core.php:188
+#: includes/class-core.php:214
 msgid "Originator"
 msgstr "شماره سامانه"
 
-#: includes/class-core.php:197
+#: includes/class-core.php:219
+msgid "With Pattern"
+msgstr "ارسال از طریق پترن"
+
+#: includes/class-core.php:227
+msgid "Pattern Code"
+msgstr "شناسه پترن"
+
+#: includes/class-core.php:247
 msgid "Phonebook"
 msgstr "دفتر تلفن"
 
