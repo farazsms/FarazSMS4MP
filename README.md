@@ -1,4 +1,4 @@
-=== FarazSMS4MP ===
+=== FarazSMS for MihanPanel ===
 Contributors: saeb, farazsms
 Donate link: https://farazsms.com
 Tags: farazsms, ippanel, digits, woocommerce,sms, پیامک , فراز اس ام اس
